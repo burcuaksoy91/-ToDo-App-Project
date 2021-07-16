@@ -113,21 +113,3 @@ section{
 
 
 }
-@media screen and (min-width: 480px) {
-
- 
-   #add_text{
-       width:50%;
-   }
-
-   #add_btn{
-       width: 10%;
-     
-       padding-right:2.5rem;
-       
-   }
-
-
-}
-
-
